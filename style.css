@@ -1,0 +1,36 @@
+@charset="utf-8";
+/* CSS Document */
+#wrapper {
+	width: 960px;
+ 	hieght: 1000px;
+	background-color: blue;
+	margin: 0 auto;
+	
+	}
+#header { width: 100%;
+				height: 250px;
+				background-color: red;
+				}
+#menu { width: 100%;
+				height: 50px;
+				background-color: yellow;
+				}
+#content { width: 100%;
+				height: 500px;
+				background-color: wight;
+				}
+#content_left {
+				width: 60%;
+				height: 100%;
+				background-color:gray;
+				float:left;
+				}
+#content_right {
+				width: 40%;
+				height: 100%;
+				background-color:violet;
+				}
+#footer { width: 100%;
+				height: 300px;
+				background-color: pink;
+				}
