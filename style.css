@@ -1,9 +1,9 @@
-
+@charset="utf-8";
 /* CSS Document */
 #wrapper {
 	width: 960px;
  	hieght: 1000px;
-	background-color: blue;
+	background-color: #FFF;
 	margin: 0 auto;
 	
 	}
@@ -17,7 +17,7 @@
 				}
 #content { width: 100%;
 				height: 500px;
-				background-color: wight;
+				background-color: #0F3;
 				}
 #content_left {
 				width: 60%;
